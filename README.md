@@ -1,3 +1,6 @@
+# Creating Job Market intelligence
+
+
 Most people navigate the job market on instinct. They pick skills based on what sounds popular, target roles based on gut feeling, and hope generic advice translates into real opportunities. This project seeks to change that.
 
 The Job Market Intelligence Platform turns raw job posting data into a clear, structured picture of what employers are actually looking for. The first release focuses on Data Science and AI roles across the Gulf region as a proof of concept, with the longer term goal of covering any industry, any region, and any audience including job seekers, recruiters and university course designers.
